@@ -1,0 +1,22 @@
+{
+  "name": "data_visualiztions",
+  "version": "1.0.0",
+  "description": "data visualizations with d3",
+  "main": "app.js",
+  "author": "Thomas Guo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "csv-parse": "^1.2.0",
+    "d3": "^4.8.0",
+    "express": "^4.15.2",
+    "hbs": "^4.0.1",
+    "jsdom": "^9.12.0",
+    "mongoose": "^4.9.2",
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-plugin-mocha": "^4.9.0"
+  }
+}

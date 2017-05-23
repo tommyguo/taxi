@@ -111,8 +111,8 @@ svg.call(zoom);
 
 
 projection = d3.geoMercator()
-  .center([-73.99, 40.75])
-  .scale(120000 * multiplier)
+  .center([-73.99, 40.78])
+  .scale(45000 * multiplier)
   .translate([width / 2, height / 2])
 
 path = d3.geoPath()

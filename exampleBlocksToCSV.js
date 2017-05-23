@@ -15,7 +15,7 @@ const data = parse(taxiC, {
 const rides = {};
 // counter for how many rows of the taxiC.csv file you want to go through
 // all 1/1/2016 data is contained within the first 500,000 rows
-const counter = 500000;
+const counter = 1048576;
 
 
 // go through each row in csv

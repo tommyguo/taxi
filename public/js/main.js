@@ -171,7 +171,7 @@ function setColor(index) {
   // read data and create map
   // blockColors.json contains data on taxi rides
   d3.json('/blockColors.json', function(err, data) {
-    // blocks.geojson contains the geojson for NYC block groups
+    // blocks.geojson contains the geojson for NYC block groups—use this t
     d3.json('/blocks.geojson', function(err, blocks) {
       // clears the map and replaces with new map so no duplicate rendering
       d3.select("g").selectAll("*").remove();

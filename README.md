@@ -2,7 +2,7 @@
 
 ## Deployed at
 
-[https://evening-falls-91841.herokuapp.com/](https://evening-falls-91841.herokuapp.com/)
+[http://tommyguo.me/projects/taxi](http://tommyguo.me/projects/taxi)
 
 ## For Beginners: Making Your Own Visualization
 
